@@ -1,0 +1,13 @@
+#inputBar{
+  width: auto;
+}
+
+#gender{
+  border-top-right-radius: 0 ;
+  border-bottom-right-radius: 0;
+}
+
+#userNameInput{
+  border-top-left-radius: 0 ;
+  border-bottom-left-radius: 0;
+}
